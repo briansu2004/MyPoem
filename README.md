@@ -14,7 +14,8 @@
   <source src="images/20211122_sunset.mov" type="video/mp4">
 </video>
 
-<video style="width:50%" controls src="images/20211122_sunset.mov" />
+<video style="width:50%" controls src="images/20211122_sunset.mov">
+</video>
 
 ## 2021-11-19
 

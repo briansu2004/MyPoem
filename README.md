@@ -1,21 +1,40 @@
 # My Poems
 
+# 2021-11-28
+
+![20211128_snowman_01.jpg](images/20211128_snowman_01.jpg)
+
+![20211128_snowman_02.jpg](images/20211128_snowman_02.jpg)
+
+```
+下雪岂能无诗
+上酒更加有益
+天上掉蛋糕掷地无数
+地下造玉人擎天一柱
+```
+
 # 2021-11-22
 
 ![20211122_sunset.jpg](images/20211122_sunset.jpg)
+
+![20211123_snow.jpg](images/20211123_snow.jpg)
 
 冷月无声，白雪飘飘，最是寂寞深秋夜
 
 热血有情，彩霞菲菲，总为繁忙残冬日
 
+<!-- Not working -
 ![](images/20211122_sunset.mov)
 
+Not working -
 <video width="320" height="240" controls>
   <source src="images/20211122_sunset.mov" type="video/mp4">
-</video>
+</video> -->
 
 <video style="width:50%" controls src="images/20211122_sunset.mov">
 </video>
+
+_Works in VSC but not in GitHub_
 
 ## 2021-11-19
 

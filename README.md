@@ -1,6 +1,46 @@
 # My Poems
 
-# 2021-11-29
+## 2021-12-01
+
+![20211201_cake.jpg](images/20211201_cake.jpg)
+
+![20211201_cook.jpg](images/20211201_cook.jpg)
+
+![20211201_potlight.jpg](images/20211201_potlight.jpg)
+
+![20211201_run.jpg](images/20211201_run.jpg)
+
+![20211201_sing.jpg](images/20211201_sing.jpg)
+
+[Happy Birthday Effie](https://docs.google.com/presentation/d/1fIUYhVYISEGLjEpSACpGsjgdmLjieAIFGSqscSmAhbE/edit?usp=sharing)
+
+```
+爱某人
+
+小女儿一年中最喜欢的一天！
+特意新装一百多射灯
+老天爷也送个大晴天
+不跑个十公里真地过意不去
+撸起袖子做个她最喜欢的家常菜
+在电脑上轻车熟路地做个deck给她
+另外手写几张贺卡
+再包上一个大大的生日礼物
+换来她满满的幸福感
+能够有一个女人这么爱和被爱
+也是多么难得，感动和幸福😅
+你知道我的梦
+你知道我的痛
+你知道我们感受都相同
+就算有再大的风
+也挡不住勇敢的冲动
+努力的往前飞
+再累也无所谓
+黑夜过后的光芒有多美
+分享你我的力量
+就能把对方的路照亮👍🏻
+```
+
+## 2021-11-29
 
 ![20211129_couplet.jpg](images/20211129_couplet.jpg)
 
@@ -10,7 +50,7 @@
 横批 踏山河
 ```
 
-# 2021-11-28
+## 2021-11-28
 
 ![20211128_snowman_01.jpg](images/20211128_snowman_01.jpg)
 
@@ -23,7 +63,7 @@
 地下造玉人擎天一柱
 ```
 
-# 2021-11-22
+## 2021-11-22
 
 ![20211122_sunset.jpg](images/20211122_sunset.jpg)
 

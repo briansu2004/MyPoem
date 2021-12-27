@@ -1,5 +1,27 @@
 # My Poems
 
+## 2021-12-26
+
+```
+突然在忙碌的节奏中停下，
+莫名地感到失落甚至负罪，
+这 ，就是牛顿第一定律！
+
+付出越多，
+收获越大，
+这 ，就是牛顿第二定律！
+
+我多爱家人，
+家人也多爱我，
+这 ，就是牛顿第三定律！
+```
+
+![](image/2021/20211226_Newton_Laws_of_motion_01.png)
+
+![](image/2021/20211226_Newton_Laws_of_motion_02.png)
+
+![](image/2021/20211226_Newton_Laws_of_motion_03.png)
+
 ## 2021-12-22
 
 ```
@@ -9,7 +31,7 @@
 还有收人在后头
 ```
 
-![](images/20211222_moon.jpg)
+![](image/2021/20211222_moon.jpg)
 
 ## 2021-12-14
 
@@ -18,9 +40,9 @@
 强牛三千 只取一条饮
 ```
 
-![](images/20211214_cook_01.jpg)
+![](image/2021/20211214_cook_01.jpg)
 
-![](images/20211214_cook_02.jpg)
+![](image/2021/20211214_cook_02.jpg)
 
 ## 2021-12-12
 
@@ -41,25 +63,25 @@
 21.098
 ```
 
-![](images/20211212_runHM_01.jpg)
+![](image/2021/20211212_runHM_01.jpg)
 
-![](images/20211212_runHM_02.png)
+![](image/2021/20211212_runHM_02.png)
 
-![](images/20211212_runHM_03.jpg)
+![](image/2021/20211212_runHM_03.jpg)
 
-![](images/20211212_runHM_04.jpg)
+![](image/2021/20211212_runHM_04.jpg)
 
-![](images/20211212_runHM_05.jpg)
+![](image/2021/20211212_runHM_05.jpg)
 
-![](images/20211212_runHM_06.jpg)
+![](image/2021/20211212_runHM_06.jpg)
 
-![](images/20211212_runHM_07.jpg)
+![](image/2021/20211212_runHM_07.jpg)
 
-![](images/20211212_runHM_08.jpg)
+![](image/2021/20211212_runHM_08.jpg)
 
-![](images/20211212_runHM_09.jpg)
+![](image/2021/20211212_runHM_09.jpg)
 
-![](images/20211212_runHM_10.jpg)
+![](image/2021/20211212_runHM_10.jpg)
 
 ## 2021-12-10
 
@@ -68,21 +90,21 @@
 飞天无限
 ```
 
-![](images/20211210_run14k_01.jpg)
+![](image/2021/20211210_run14k_01.jpg)
 
-![](images/20211210_run14k_02.jpg)
+![](image/2021/20211210_run14k_02.jpg)
 
 ## 2021-12-01
 
-![20211201_cake.jpg](images/20211201_cake.jpg)
+![20211201_cake.jpg](image/2021/20211201_cake.jpg)
 
-![20211201_cook.jpg](images/20211201_cook.jpg)
+![20211201_cook.jpg](image/2021/20211201_cook.jpg)
 
-![20211201_potlight.jpg](images/20211201_potlight.jpg)
+![20211201_potlight.jpg](image/2021/20211201_potlight.jpg)
 
-![20211201_run.jpg](images/20211201_run.jpg)
+![20211201_run.jpg](image/2021/20211201_run.jpg)
 
-![20211201_sing.jpg](images/20211201_sing.jpg)
+![20211201_sing.jpg](image/2021/20211201_sing.jpg)
 
 [Happy Birthday Effie](https://docs.google.com/presentation/d/1fIUYhVYISEGLjEpSACpGsjgdmLjieAIFGSqscSmAhbE/edit?usp=sharing)
 
@@ -114,7 +136,7 @@
 
 ## 2021-11-29
 
-![20211129_couplet.jpg](images/20211129_couplet.jpg)
+![20211129_couplet.jpg](image/2021/20211129_couplet.jpg)
 
 ```
 上联 拎包入住
@@ -124,9 +146,9 @@
 
 ## 2021-11-28
 
-![20211128_snowman_01.jpg](images/20211128_snowman_01.jpg)
+![20211128_snowman_01.jpg](image/2021/20211128_snowman_01.jpg)
 
-![20211128_snowman_02.jpg](images/20211128_snowman_02.jpg)
+![20211128_snowman_02.jpg](image/2021/20211128_snowman_02.jpg)
 
 ```
 下雪岂能无诗
@@ -137,34 +159,34 @@
 
 ## 2021-11-22
 
-![20211122_sunset.jpg](images/20211122_sunset.jpg)
+![20211122_sunset.jpg](image/2021/20211122_sunset.jpg)
 
-![20211123_snow.jpg](images/20211123_snow.jpg)
+![20211123_snow.jpg](image/2021/20211123_snow.jpg)
 
 冷月无声，白雪飘飘，最是寂寞深秋夜
 
 热血有情，彩霞菲菲，总为繁忙残冬日
 
 <!-- Not working -
-![](images/20211122_sunset.mov)
+![](image/2021/20211122_sunset.mov)
 
 Not working -
 <video width="320" height="240" controls>
-  <source src="images/20211122_sunset.mov" type="video/mp4">
+  <source src="image/2021/20211122_sunset.mov" type="video/mp4">
 </video> -->
 
-<video style="width:50%" controls src="images/20211122_sunset.mov">
+<video style="width:50%" controls src="image/2021/20211122_sunset.mov">
 </video>
 
 _Works in VSC but not in GitHub_
 
 ## 2021-11-19
 
-![20211119_moon.png](images/20211119_moon.png)
+![20211119_moon.png](image/2021/20211119_moon.png)
 
-![20211119_eclipse.jpg](images/20211119_eclipse.jpg)
+![20211119_eclipse.jpg](image/2021/20211119_eclipse.jpg)
 
-![20211119_volume_sphere.jpg](images/20211119_volume_sphere.jpg)
+![20211119_volume_sphere.jpg](image/2021/20211119_volume_sphere.jpg)
 
 ```
 600 年不遇的大红月亮全食
@@ -184,7 +206,7 @@ _Works in VSC but not in GitHub_
 
 ## 2021-11-17
 
-![2021117_point.png](images/20211117_point.png)
+![2021117_point.png](image/2021/20211117_point.png)
 
 ```
 秋夜月 \* 学
@@ -211,7 +233,7 @@ _Works in VSC but not in GitHub_
 
 ## 2021-11-14
 
-![2021114_snow.jpg](images/20211114_snow.jpg)
+![2021114_snow.jpg](image/2021/20211114_snow.jpg)
 
 ```
 沁园春 \* 初雪
@@ -251,7 +273,7 @@ There is also a joy.
 
 ## 2021-11-12
 
-![2021112_run.jpg](images/20211112_run.jpg)
+![2021112_run.jpg](image/2021/20211112_run.jpg)
 
 ```
 上一分钟还是风雨癫痫
@@ -264,7 +286,7 @@ There is also a joy.
 
 ### 2021-11-07
 
-![2021107_frst_day_of_winter.jpg](images/20211107_frst_day_of_winter.jpg)
+![2021107_frst_day_of_winter.jpg](image/2021/20211107_frst_day_of_winter.jpg)
 
 ```
 立冬风景宜人
@@ -275,7 +297,7 @@ There is also a joy.
 
 ### 2021-10-30
 
-![20211030_run.jpg](images/20211030_run.jpg)
+![20211030_run.jpg](image/2021/20211030_run.jpg)
 
 ```
 斜风蒙蒙
@@ -286,7 +308,7 @@ There is also a joy.
 
 ### 2021-09-28
 
-![20210928_Shakespeare.jfif](images/20210928_Shakespeare.jfif)
+![20210928_Shakespeare.jfif](image/2021/20210928_Shakespeare.jfif)
 
 My first Sonnet
 
@@ -338,7 +360,7 @@ How come you can’t
 
 ### 2021-05-16
 
-![20210516_drink.jpg](images/20210516_drink.jpg)
+![20210516_drink.jpg](image/2021/20210516_drink.jpg)
 
 ```
 假如
